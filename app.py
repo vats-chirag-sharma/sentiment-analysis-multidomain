@@ -444,11 +444,11 @@ with st.expander(
     )
 
     st.write(
-        "**Training Dataset:** IMDb Movie Reviews"
+        "**Training Dataset:** IMDb + Amazon + Restaurant + Sentiment140"
     )
 
     st.write(
-        "**Dataset Size:** Approximately 50,000 reviews"
+        "**Dataset Size:** Approximately 150,474 unique texts"
     )
 
     st.write(
